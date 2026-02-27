@@ -15,7 +15,6 @@ trading_bot/
     logging_config.py
   cli.py
   requirements.txt
-  trading_bot.log
 
 ---
 
